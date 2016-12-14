@@ -551,9 +551,13 @@
 
 @media (max-width: 994px)
 {
-    .hero-2 .front-content img.logo
+    .hero-2 .front-content
     {
         padding: 0 80px;
+    }
+    
+   .logo{
+	     padding: 0 20px;
     }
 
     .hero-2 .front-content p
@@ -583,9 +587,13 @@
 
 @media (max-width: 480px)
 {
-    .hero-2 .front-content img.logo
+    .hero-2 .front-content 
     {
         padding: 0 20px;
+    }
+    
+    .logo{
+	     padding: 0 10px;
     }
 
     .hero-2 .front-content p

@@ -136,7 +136,8 @@
 		// "space" = CANVAS SPACE BACKGROUND
 		// "custom" = CUSTOM BACKGROUND
 		
-		var option_hero_background_mode = "kenburns";
+		var option_hero_background_mode = "gradient";
+		
 
 
 
