@@ -1,15 +1,3 @@
-/******************************************************************
-	
-	
-	@ Item          Legendary // One Page Parallax HTML Template 
-	@ Version       1.0
-	@ Author		Avanzare
-	@ Website		http://themeforest.net/user/avanzare 
-	
-
- ******************************************************************/
- 
- 
  /******************************************************************
 
 
@@ -535,7 +523,7 @@ jQuery(document).ready(function() {
 		// THREE.JS BASED
 		var SEPARATION = option_hero_background_waves_dotSpacing, AMOUNTX = option_hero_background_waves_dotAmountX, AMOUNTY = option_hero_background_waves_dotAmountY;
 
-			var SCREEN_WIDTH = $(".hero .level-1").width(),
+			var SCREEN_WIDTH = $(",main .level-1").width(),
 				SCREEN_HEIGHT = $(".hero .level-1").height();
 				
 			var container;
